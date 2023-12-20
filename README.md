@@ -16,7 +16,7 @@ Build Restful CRUD API with Node.js, Express and MongoDB. In this project we uti
 - helmet: Middleware for adding security headers.
 - jsonwebtoken: A package for working with JSON Web Tokens (JWT) to implement authentication.
 
-## ”SWAGGER.YAML” DOCUMENTATION
+### ”SWAGGER.YAML” Documentation
 https://app.swaggerhub.com/apis/HichamAf/SSJ_API_OSA3.0/1.0.0
 
 ```yaml
