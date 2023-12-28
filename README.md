@@ -14,7 +14,7 @@ Build Restful CRUD API with Node.js, Express and MongoDB. In this project we uti
 - Body-parser: Middleware for parsing request bodies.
 - CORS: Middleware for enabling Cross-Origin Resource Sharing.
 - Helmet: Middleware for adding security headers.
-- JsonWebToken: A package for working with JSON Web Tokens (JWT) to implement authentication.
+- JWT: A package for working with JSON Web Tokens (JWT) to implement authentication.
 
 ### ”SWAGGER.YAML” Documentation
 https://app.swaggerhub.com/apis/HichamAf/SSJ_API_OSA3.0/1.0.0
