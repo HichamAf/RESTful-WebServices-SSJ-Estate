@@ -9,12 +9,12 @@ Build Restful CRUD API with Node.js, Express and MongoDB. In this project we uti
 
 ## Packages:
 
-- express: A web framework for creating RESTful APIs.
-- mongoose: An Object Data Modeling (ODM) library for MongoDB.
-- body-parser: Middleware for parsing request bodies.
-- cors: Middleware for enabling Cross-Origin Resource Sharing.
-- helmet: Middleware for adding security headers.
-- jsonwebtoken: A package for working with JSON Web Tokens (JWT) to implement authentication.
+- Express: A web framework for creating RESTful APIs.
+- Mongoose: An Object Data Modeling (ODM) library for MongoDB.
+- Body-parser: Middleware for parsing request bodies.
+- CORS: Middleware for enabling Cross-Origin Resource Sharing.
+- Helmet: Middleware for adding security headers.
+- JsonWebToken: A package for working with JSON Web Tokens (JWT) to implement authentication.
 
 ### ”SWAGGER.YAML” Documentation
 https://app.swaggerhub.com/apis/HichamAf/SSJ_API_OSA3.0/1.0.0
