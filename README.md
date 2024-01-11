@@ -1,20 +1,36 @@
 # RestFull_WebService
-Build Restful CRUD API with Node.js, Express and MongoDB. In this project we utilize RESTful Web Services to provide a platform for managing real estate properties, which offers a comprehensive system where users can access, update property. 
+## About The Project
+Build Restful CRUD API with Node.js, Express and MongoDB. In this project we build a RESTful API to provide a platform for managing real estate properties, which offers a comprehensive system where users can access, update property. 
 <p>The RESTful architecture ensures clear communication between clients and servers, employing standard HTTP methods for data manipulation, retrieval, and modification.</p> 
 
 <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*gyUa6Qx-xcOR1vHg1IoVkw.png" width="600">
 
-## Author
-- [@HichamAf](https://github.com/HichamAf)
+
+## Project Design
+
+## Endpoit Design
+
+## UML Diagram
 
 ## Packages:
-
 - Express: A web framework for creating RESTful APIs.
 - Mongoose: An Object Data Modeling (ODM) library for MongoDB.
 - Body-parser: Middleware for parsing request bodies.
 - CORS: Middleware for enabling Cross-Origin Resource Sharing.
 - Helmet: Middleware for adding security headers.
 - JWT: A package for working with JSON Web Tokens (JWT) to implement authentication.
+
+## Acknowledgments
+list of resources I found helpful and would like to give credit to.
+
+Choose an Open Source License
+Restful Api Explained
+
+
+## Author
+- [@HichamAf](https://github.com/HichamAf)
+
+
 
 ### ”SWAGGER.YAML” Documentation
 https://app.swaggerhub.com/apis/HichamAf/SSJ_API_OSA3.0/1.0.0
