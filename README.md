@@ -10,18 +10,18 @@ Building a Restful CRUD API with Node.js, Express and MongoDB. In this project w
 ## Endpoints:
 
 Properties:
-      - **GET /properties:** Retrieve a list of all properties.
-      - **GET /properties/{property_id}:** Retrieve details of a specific property.
-      - **POST /properties:** Create a new property.
-      - **PUT /properties/{property_id}:** Update details of a specific property.
-      - **DELETE /properties/{property_id}:** Delete a specific property.
+   - GET /properties: Retrieve a list of all properties.
+   - GET /properties/{property_id}: Retrieve details of a specific property.
+   - POST /properties: Create a new property.
+   - PUT /properties/{property_id}: Update details of a specific property.
+   - DELETE /properties/{property_id}: Delete a specific property.
 
 Tenants:
-      - **GET /tenants:** Retrieve a list of all tenants.
-      - **GET /tenants/{tenant_id}:** Retrieve details of a specific tenant.
-      - **POST /tenants:** Create a new tenant.
-      - **PUT /tenants/{tenant_id}:** Update details of a specific tenant.
-      - **DELETE /tenants/{tenant_id}:** Delete a specific tenant.
+   - GET /tenants: Retrieve a list of all tenants.
+   - GET /tenants/{tenant_id}: Retrieve details of a specific tenant.
+   - POST /tenants: Create a new tenant.
+   - PUT /tenants/{tenant_id}: Update details of a specific tenant.
+   - DELETE /tenants/{tenant_id}: Delete a specific tenant.
 
 Request and Response Formats:
    - Using JSON for both request and response formats.
@@ -34,8 +34,7 @@ Versioning:
    - Including versioning in the API to manage future changes (`/v1/properties`).
 
 Documentation:
-   - Providing comprehensive API documentation using Swagger (https://app.swaggerhub.com/apis/HichamAf/SSJ_API_OSA3.0/1.0.0
-).
+   - Providing comprehensive API documentation using Swagger (https://app.swaggerhub.com/apis/HichamAf/SSJ_API_OSA3.0/1.0.0).
 
 <!-- ## UML Diagram 
 
