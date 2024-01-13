@@ -34,7 +34,8 @@ Versioning:
    - Including versioning in the API to manage future changes (`/v1/properties`).
 
 Documentation:
-   - Providing comprehensive API documentation using Swagger.
+   - Providing comprehensive API documentation using Swagger (https://app.swaggerhub.com/apis/HichamAf/SSJ_API_OSA3.0/1.0.0
+).
 
 <!-- ## UML Diagram 
 
@@ -51,10 +52,10 @@ Documentation:
 
 
 
-### Swagger Documentation:
+<!--### Swagger Documentation:
 https://app.swaggerhub.com/apis/HichamAf/SSJ_API_OSA3.0/1.0.0
 
-<!-- ```yaml
+ ```yaml
 openapi: 3.0.0
 info:
   version: 1.0.0
