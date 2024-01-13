@@ -46,8 +46,7 @@ Documentation:
 - Helmet: Middleware for adding security headers.
 - JWT: A package for working with JSON Web Tokens (JWT) to implement authentication. -->
 
-## Author
-- [@HichamAf](https://github.com/HichamAf)
+Author: [@HichamAf](https://github.com/HichamAf)
 
 
 
