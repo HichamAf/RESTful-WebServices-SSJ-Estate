@@ -3,7 +3,7 @@
 Building a Restful CRUD API with Node.js, Express and MongoDB. In this project we build a RESTful API to provide a platform for managing real estate properties, which offers a comprehensive system where users can access, update property. 
 <p>The RESTful architecture ensures clear communication between clients and servers, employing standard HTTP methods for data manipulation, retrieval, and modification.</p> 
 
-<img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*gyUa6Qx-xcOR1vHg1IoVkw.png" width="600">
+<img src="diagram.png" width="600">
 
 <!-- ## Project Design -->
 
